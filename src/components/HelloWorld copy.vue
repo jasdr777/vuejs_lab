@@ -70,20 +70,6 @@
           </a>
         </v-layout>
       </v-flex>
-
-      <v-flex xs12 mb-5>
-        <h2 class="headline font-weight-bold mb-3">Light Colors</h2>
-        <v-layout justify-center>
-          <v-btn color="primary">Primary</v-btn>
-          <v-btn color="secondary">Secondary</v-btn>
-          <v-btn color="accent">Accent</v-btn>
-          <v-btn color="error">Error</v-btn>
-          <v-btn color="warning">Warning</v-btn>
-          <v-btn color="info">Info</v-btn>
-          <v-btn color="success">Success</v-btn>
-        </v-layout>
-      </v-flex>
-
     </v-layout>
   </v-container>
 </template>
